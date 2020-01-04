@@ -1,8 +1,28 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Sprint
+  link: sprint.bulkmro.com
+  github: github.com/bulkmro/sprint
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Sprint is a full-stack technology platform which is a one-stop solution for all supply chain procurement needs for BulkMRO's customers and suppliers.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Started working on this project almost from the beginning. Worked with the team to build awesome new features and applications.
+    Mainly worked as a full-stack developer with the technologies like Ruby on Rails, HTML, CSS, JavaScript, JQuery, VUE JS, Redis, Memchache Postgres etc.
+
+- layout: top-middle
+  name: Sprint Customer Portal
+  link: sprint.bulkmro.com/customers
+  github: github.com/bulkmro/sprint
+  quote: >
+    Sprint Customer Portal is a full-stack technology platform which is a one-stop E-Commerce platform for BulkMRO's customers.
+  description: | # this will include new lines to allow paragraphs
+    Started this project single handedly. It was my first experience to build an e-commerce platform. Collaborated with the Management and took their inputs for develop new features and modules.
+    Mainly worked as a full-stack developer with the technologies like Ruby on Rails, HTML, CSS, JavaScript, JQuery, VUE JS, Redis, Memchache Postgres etc.
+
+- layout: top-middle
+  name: Realvolve
+  link: realvolve.com
+  quote: >
+    Sprint Customer Portal is a full-stack technology platform which is a one-stop E-Commerce platform for BulkMRO's customers.
+  description: | # this will include new lines to allow paragraphs
+    Started this project single handedly. It was my first experience to build an e-commerce platform. Collaborated with the Management and took their inputs for develop new features and modules.
+    Mainly worked as a full-stack developer with the technologies like Ruby on Rails, HTML, CSS, JavaScript, JQuery, VUE JS, Redis, Memchache Postgres etc.
